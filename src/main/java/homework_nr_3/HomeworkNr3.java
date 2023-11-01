@@ -38,3 +38,4 @@ public class HomeworkNr2{
 
     }
 }
+// Nice
