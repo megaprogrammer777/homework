@@ -3,8 +3,8 @@ package homework_nr_3;
 public class HomeworkNr3 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        long CurrentWorldPopulation = 72123235;
-        long CarsProducedThisYear = 53322358;
+        long CurrentWorldPopulation = 72123235L;
+        long CarsProducedThisYear = 53322358L;
         char FirstLetterInAlphabet = 'A';
         double Pi = 3.14159;
         boolean JavaIsAmazing = true;
