@@ -8,6 +8,7 @@ public class HomeworkNr3 {
         char FirstLetterInAlphabet = 'A';
         double Pi = 3.14159;
         boolean JavaIsAmazing = true;
+        int z = 2;
 
 
         System.out.println(CurrentWorldPopulation);
@@ -15,6 +16,7 @@ public class HomeworkNr3 {
         System.out.println(FirstLetterInAlphabet);
         System.out.println(Pi);
         System.out.println(JavaIsAmazing);
+        System.out.println(z);
 
 
         double Price = 456548.34;
