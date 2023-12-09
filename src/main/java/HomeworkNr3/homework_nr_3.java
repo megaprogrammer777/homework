@@ -8,5 +8,6 @@ public class homework_nr_3 {
             sum += (double) i / j;}
         System.out.println("Сумма серий" + sum);
     }
+    int o = 4;
 }
 
