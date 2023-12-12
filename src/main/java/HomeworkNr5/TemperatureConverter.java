@@ -2,7 +2,7 @@ package HomeworkNr5;
 
 public class TemperatureConverter {
     public static void main(String[] args) {
-        double Celsius = 25;
+        double Celsius = 20;
         double Fahrenheit = 63;
 
         toCelsius(Fahrenheit);
