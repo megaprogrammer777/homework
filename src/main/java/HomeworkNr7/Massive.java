@@ -22,5 +22,13 @@ public class Massive {
             sum2 = sum2 * numbers[index];
         }
         System.out.println("Sum of not even numbers is" + sum2);
+
+        System.out.println("-----------------------");
+
+
+
+        int[]copyNumbers = new int[numbers.length];
+
+        System.out.println(copyNumbers.length);
     }
 }
